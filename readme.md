@@ -31,6 +31,8 @@ Simply click on the section links below to navigate to the specific README conta
 
 3. [Error Based Questions](./error.md)  
    This section contains more challenging C++ questions designed for experienced developers looking to deepen their understanding.
+3. [Advance Suedo Questions](./advance_suedo.md)  
+   This section contains more challenging suedo questions designed for experienced developers looking to deepen their understanding.
 
 ## Contributing
 
