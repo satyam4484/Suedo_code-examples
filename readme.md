@@ -29,6 +29,9 @@ Simply click on the section links below to navigate to the specific README conta
 2. [Medium to High Questions](./medium.md)  
    This section contains more challenging C++ questions designed for experienced developers looking to deepen their understanding.
 
+3. [Error Based Questions](./error.md)  
+   This section contains more challenging C++ questions designed for experienced developers looking to deepen their understanding.
+
 ## Contributing
 
 We welcome contributions! If you would like to add more questions or improve existing ones, feel free to fork the repo and submit a pull request.
